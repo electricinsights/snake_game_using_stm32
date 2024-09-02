@@ -1,1 +1,2 @@
 This project is a handheld version of the classic Snake game, developed using the STM32F103C8T6 microcontroller. The snake's movement is controlled using push buttons, providing an intuitive gaming experience. An OLED display is used to visually track the snake's movement on the screen. The game is designed to be compact and portable, making it an excellent project for those interested in embedded systems and gaming.
+For more information feel free to write email: muzammilanwar096@gmail.com
